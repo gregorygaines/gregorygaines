@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Gregiry Gaubes</h1>
+<h1 align="center">Hi 👋🏾, I'm Gregory Gaines</h1>
 <h3 align="center">I'm a computer science fanatic and full-stack engineer that specializes in building serverless microservices 😉. I currently have a fantastic job at Google.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregorygaines&label=Profile%20views&color=0e75b6&style=flat" alt="gregorygaines" /> </p>
