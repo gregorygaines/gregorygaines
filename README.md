@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a software engineer that specializes in serverless microservices working for Google,
-
+I'm a software engineer that specializes in serverless microservices working for Google, making the internet more accessible for the world.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gregorygaines) 
